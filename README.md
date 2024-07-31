@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter** . <br>
+I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
 
 
@@ -28,7 +28,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 - **Name**: coffinxp
 - **From**: Russia
 - **Bug Hunter** | **Security Researcher** | **Forensic Expert**
-- i have experience in cracking,reverse Engineering.bug hunting,Forensic
+- i have experience in cracking,reverse Engineering.bug hunting,Forensic,also spy agent
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities Scanning**
 - I’m currently learning **everything** 
@@ -63,8 +63,8 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450)](https://git.io/streak-stats) 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinsp&theme=dark&card_width=450)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
