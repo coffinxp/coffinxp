@@ -19,7 +19,7 @@
 </h2>
 
 I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help people.
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
