@@ -28,7 +28,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 - **Name**: coffinxp
 - **From**: Russia
 - **Bug Hunter** | **Security Researcher** | **Forensic Expert**
-- In past i defaced many govt sites and part of lulzsec group i have experience in cracking,reverse Engineering.bug hunting,Forensic,also spy agent
+- i have experience in cracking,reverse Engineering.bug hunting,Forensic
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities Scanning**
 - I’m currently learning **everything** 
@@ -63,9 +63,9 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark)](https://github.com/coffinxp/github-readme-stats)
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+ <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
 
