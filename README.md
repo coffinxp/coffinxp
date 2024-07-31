@@ -19,7 +19,7 @@
 </h2>
 
 I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect and help people from blackhat hackers.
 
 
 <details>
@@ -27,10 +27,10 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 - **Name**: coffinxp
 - **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **Forensic Expert**
-- i have experience in cracking,reverse Engineering.bug hunting,Forensic,also spy agent
+- **Bug Hunter** | **Security Researcher** | **forensics Expert**
+- i have experience in cracking,reverse Engineering,bug hunting,Forensic,also spy agent
 -**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities Scanning**
+- Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
 - Reach me out at **coffinxp7@proton.me**
 
@@ -44,11 +44,11 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting  & malware forensic.
+👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities & Organizing Events.
+👉 Managing Tech Communities & Content creator.
 
-👉 Writing Some Useful Python & .NET Frameworks Tools For Myself & Communities
+👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects
 
