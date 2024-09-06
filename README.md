@@ -54,7 +54,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 👉 Currently Learning mobile pentesting & web3 
 
-`Updating:`  Journey to Cybersecurity Specialist👀.
+`Updating:`  Journey to Cybersecurity Specialist.
 
 ---
 
