@@ -28,7 +28,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 - **Name**: coffin
 - **From**: Russia
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
+- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
