@@ -71,7 +71,7 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 
 
-<h2 id="donate" align=''>Donate ⚡️ Support</h2>
+<h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
 <summary>Buy Me A Coffee</summary>
