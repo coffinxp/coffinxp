@@ -114,7 +114,27 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 
 </details>
 
+## GitHub Repository Cloner for coffinxp  
+This PowerShell script automates the process of cloning multiple repositories from the **coffinxp** GitHub profile.  
+- Clones all specified repositories one by one.  
+- Requires only **PowerShell** and **Git** installed on your system.
 
+```powershell
+$repos = @(
+    "nuclei-templates",
+    "loxs",
+    "payloads",
+    "scripts",
+    "img-payloads",
+    "customBsqli",
+    "pdFExploits",
+    "coffinxp"
+)
+
+foreach ($repo in $repos) {
+    git clone "https://github.com/coffinxp/$repo.git"
+}
+```
 
 
 <p align="center">
