@@ -120,8 +120,9 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
-
 <p align="center">
 <a>🌱</a>
 </p>
-![snake gif](https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
