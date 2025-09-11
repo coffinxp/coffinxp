@@ -23,8 +23,8 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
+- **Name**: Coffin
+- **From**: Moscow (Russia)
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
